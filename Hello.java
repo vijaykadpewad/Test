@@ -28,6 +28,8 @@ System.out.println("1234");
 System.out.println("95678");
 System.out.println("847");
 
+System.out.println("847");
+
 
 
 
